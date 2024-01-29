@@ -1,0 +1,8 @@
+/* Firefox styles */
+#totalSavings[type="text"] {
+    color: darkblue;
+    font-size: 45px;
+    max-width: 300px;
+    text-align: center;
+}
+
